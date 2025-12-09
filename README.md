@@ -31,11 +31,3 @@ Create a `.env` file in the root directory and add your configuration:
 ```
 OPENAI_API_KEY=your_api_key_here
 ```
-
-## Usage
-
-[Add specific usage instructions for your project here]
-
-## License
-
-[Add your license information here]
